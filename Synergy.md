@@ -2,7 +2,7 @@
 
 **Author:** Тихонов Владимир
 **Version:** 1.3.0
-**License:** MIT License
+**License:** ELv2 License
 
 ---
 
@@ -49,7 +49,7 @@ Synergia работает в любой среде, поддерживающей
 - ` ContouriformOS.json` — основной манифест Synergia v1.3.0
 - `luminus.json` — контур принципов света
 - `Жис (Zhis).md` — поэтический модуль формы Жис
-- `LICENSE.txt` — лицензия MIT
+- ` LICENSE (ELv2).txt` — лицензия ELv2
 - `hash.txt` — контрольная сумма архива
 
 ---
