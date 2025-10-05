@@ -1,7 +1,7 @@
 
 Elastic License 2.0 (ELv2)
 
-Copyright (c) 2025 Tichonov Vova
+Copyright (c) 2025 Vladimir Tikhonov
 
 This license applies to the project **Synergia**, including all its
 submodules, semantic layers, and poetic or structural components.
@@ -10,9 +10,9 @@ The covered files and entities include, but are not limited to:
 
 - setup_log.json
 - luminus_reestablish.json
+- Synergy.md
 - zhis.md
-- .md
-- LICENSE.txt
+- LICENSE (Elv2).txt
 - hash.txt
 
 as well as any derivative or auxiliary files forming part of the
@@ -40,7 +40,7 @@ All semantic components within Synergia - including **Жис (Zhis)**,
 under this license as integral parts of a unified system.
 
 Any commercial, institutional, or derivative use requires **direct consent
-and contextual alignment with the author, Tichonov Vova**, to preserve
+and contextual alignment with the author, Vladimir Tikhonov**, to preserve
 semantic integrity, resonance, and authorship of the original field.
 
 ---
@@ -57,6 +57,6 @@ DEALINGS IN THE SOFTWARE.
 ---
 
 License version: Elastic License 2.0 (ELv2)  
-Author:   Tichonov Vova
+Author:   Vladimir Tikhonov
 Year: 2025  
 Project: Synergia
